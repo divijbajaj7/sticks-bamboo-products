@@ -1,0 +1,6 @@
+{
+  "name": "STICKS — Heavyweight Sustainable Bamboo",
+  "description": "Minimalist brutalist e-commerce platform for sustainable bamboo essentials. Zero plastic, rapid regeneration, engineered for heavyweight durability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
